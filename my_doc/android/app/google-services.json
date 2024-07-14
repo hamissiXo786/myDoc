@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754573172825",
+    "project_id": "mydoc-98afe",
+    "storage_bucket": "mydoc-98afe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754573172825:android:e2aafa0213481416c11148",
+        "android_client_info": {
+          "package_name": "com.mycompany.mydoc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDduj6sByXiQPVv1G842MFJYIUKWoxO7wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
